@@ -9,7 +9,8 @@ function draw() {
   // Challenge 1: An eye using ellipse() function
   fill('black');
   ellipse(400,300,600,300);
-  fill('')
+  fill('red');
+  ellipse()
 
   // Challenge 2: A face using circle() function
 
