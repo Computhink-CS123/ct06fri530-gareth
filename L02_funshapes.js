@@ -15,21 +15,22 @@ function draw() {
   // ellipse(400,300,150,70)
 
   // Challenge 2: A face using circle() function
-  fill('brown');
-  ellipse(150,166,100,100);
-  fill('brown');
-  ellipse(450,166,100,100);
-  fill('brown');
-  ellipse(300,300,300,300);
-  fill('black');
-  ellipse(220,250,50,50);
-  fill('black');
-  ellipse(380,250,50,50);
-  fill('black');
-  ellipse(300,350,160,80);
+  // fill('brown');
+  // ellipse(150,166,100,100);
+  // fill('brown');
+  // ellipse(450,166,100,100);
+  // fill('brown');
+  // ellipse(300,300,300,300);
+  // fill('black');
+  // ellipse(220,250,50,50);
+  // fill('black');
+  // ellipse(380,250,50,50);
+  // fill('black');
+  // ellipse(300,350,160,80);
 
 
   // Challenge 3: A house using rect() function
+  
 
   // Challenge 4: A rocketship using triangle() function
 
