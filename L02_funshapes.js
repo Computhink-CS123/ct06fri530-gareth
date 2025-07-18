@@ -30,7 +30,7 @@ function draw() {
 
 
   // Challenge 3: A house using rect() function
-  
+  fill
 
   // Challenge 4: A rocketship using triangle() function
 
