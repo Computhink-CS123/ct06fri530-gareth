@@ -16,6 +16,7 @@ function draw() {
 
   // Challenge 2: A face using circle() function
   FileList('brown');
+  ellipse()
 
   // Challenge 3: A house using rect() function
 
