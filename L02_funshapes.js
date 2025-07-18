@@ -42,7 +42,7 @@ function draw() {
   // ellipse(420,440,20,30);
   // fill('red');
   // triangle(80,200,720,200,400,10);
-  quad(123,456,789,234,567,890,345,678)
+  //quad(123,456,789,234,567,890,345,678)
 
   // Challenge 4: A rocketship using triangle() function
 
