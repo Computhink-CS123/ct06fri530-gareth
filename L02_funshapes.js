@@ -16,7 +16,7 @@ function draw() {
 
   // Challenge 2: A face using circle() function
   fill('brown');
-  ellipse(150,176,100,100)
+  ellipse(150,196,100,100)
   fill('brown');
   ellipse(400,126,100,100)
   fill('brown');
