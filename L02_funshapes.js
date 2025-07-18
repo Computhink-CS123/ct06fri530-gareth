@@ -43,6 +43,7 @@ function draw() {
   // fill('red');
   // triangle(80,200,720,200,400,10);
   //quad(123,456,789,234,567,890,345,678)
+  FileList()
   rect()
 
   // Challenge 4: A rocketship using triangle() function
