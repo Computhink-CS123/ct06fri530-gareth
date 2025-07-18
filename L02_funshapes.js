@@ -30,18 +30,18 @@ function draw() {
 
 
   // Challenge 3: A house using rect() function
-  fill('green');
-  rect(200,200,400,300);
-  fill('blue')
-  ellipse(310,300,70,70)
-  fill('blue')
-  ellipse(490,300,70,70)
-  fill('brown');
-  rect(365,370,70,130);
-  fill('black');
-  ellipse(420,440,20,30);
-  fill('red');
-  triangle(80,200,720,200,400,10);
+  // fill('green');
+  // rect(200,200,400,300);
+  // fill('blue')
+  // ellipse(310,300,70,70)
+  // fill('blue')
+  // ellipse(490,300,70,70)
+  // fill('brown');
+  // rect(365,370,70,130);
+  // fill('black');
+  // ellipse(420,440,20,30);
+  // fill('red');
+  // triangle(80,200,720,200,400,10);
 
 
   // Challenge 4: A rocketship using triangle() function
