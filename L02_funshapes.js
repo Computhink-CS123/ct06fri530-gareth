@@ -38,7 +38,7 @@ function draw() {
   ellipse(490,300,70,70)
   fill('brown');
   rect(365,400,70,100);
-  fill('green');
+  fill('black');
   rect(200,200,400,300);
 
 
