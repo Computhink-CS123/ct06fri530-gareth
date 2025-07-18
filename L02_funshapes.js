@@ -18,7 +18,7 @@ function draw() {
   fill('brown');
   ellipse(150,166,100,100)
   fill('brown');
-  ellipse(400,126,100,100)
+  ellipse(450,166,100,100)
   fill('brown');
   ellipse(300,300,300,300)
 
