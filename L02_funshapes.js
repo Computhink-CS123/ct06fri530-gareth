@@ -1,6 +1,6 @@
 
 function setup(){
-  createCanvas(1500, 950)
+  createCanvas(1500, 750)
   background('skyblue')
 }
 
