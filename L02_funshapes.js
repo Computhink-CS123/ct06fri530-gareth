@@ -44,7 +44,7 @@ function draw() {
   // triangle(80,200,720,200,400,10);
   //quad(123,456,789,234,567,890,345,678)
   fill('brown')
-  rect(300,700,50,600)
+  rect(500,700,150,600)
 
   // Challenge 4: A rocketship using triangle() function
 
