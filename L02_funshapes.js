@@ -26,7 +26,7 @@ function draw() {
   fill('black');
   ellipse(380,250,50,50);
   fill('black');
-  ellipse(300,350,160,50);
+  ellipse(300,350,160,90);
 
 
   // Challenge 3: A house using rect() function
