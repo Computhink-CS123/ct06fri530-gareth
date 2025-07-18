@@ -40,7 +40,7 @@ function draw() {
   rect(365,370,70,130);
   fill('black');
   ellipse(420,440,20,30);
-  fill('')
+  fill('red')
   triangle(580,400,)
 
 
