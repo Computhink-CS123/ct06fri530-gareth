@@ -22,7 +22,7 @@ function draw() {
   fill('brown');
   ellipse(300,300,300,300);
   fill('black');
-  ellipse(250,250,50,50);
+  ellipse(220,250,50,50);
   fill('black');
   ellipse(380,250,50,50);
 
