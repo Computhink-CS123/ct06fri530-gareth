@@ -40,6 +40,7 @@ function draw() {
   rect(365,370,70,130);
   fill('black');
   ellipse(420,440,20,30);
+  triab
 
 
   // Challenge 4: A rocketship using triangle() function
